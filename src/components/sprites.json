@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "size": [32, 20],
+        "name": "MS271",
+        "desc": "Retired in 2174, after 50 years of production the ship was seen obselete, though hobbyists and collectors still created demand for this shuttle.",
+        "src": "/assets/spaceship1.png"
+    },
+    {
+        "id": 1,
+        "size": [32, 20],
+        "name": "MS272",
+        "desc": "Replacing MS271 in the market, the MS272 was a more efficient and reliable shuttle, with a longer range and more cargo space.",
+        "src": "/assets/spaceship2.png"
+    },
+    {
+        "id": 2,
+        "size": [32, 20],
+        "name": "MS273",
+        "desc": "The MS273 was a short lived model, with only 2 years of production. It was a more luxurious model, with a larger passenger capacity and more comfortable seating.",
+        "src": "/assets/spaceship3.png"
+    }
+]
